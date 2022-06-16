@@ -13,5 +13,10 @@ private:
 	std::string question6;
 
 public:
-	void PrintQuestion();
+	void GetQuestion1();
+	void GetQuestion2();
+	void GetQuestion3();
+	void GetQuestion4();
+	void GetQuestion5();
+	void GetQuestion6();
 };
